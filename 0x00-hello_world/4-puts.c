@@ -1,11 +1,12 @@
 #include <stdio.h>
- /**
-  * main - content of puts
-  *
-  * Return: 0 after printing the function (success)
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (success)
  */
   int main(void)
 {
-   puts(“\”Programming is like building a multi ilingual Puzzle”);
-   return (0);
-}
+  puts(“\”Programming is like building a multilingual Puzzle”);
+  return (0);
+ }
