@@ -16,20 +16,20 @@ int main(void)
 			{
 				if (k > j && j > i)
 				{
-					
+
 					putchar(i);
 					putchar(j);
 					putchar(k);
 					if (i != 55 || j != 56)
 					{
-						
+
 						putchar(',');
 						putchar(' ');
-					
+
 					}
-				
+
 				}
-			
+
 			}
 		}
 	}
